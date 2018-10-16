@@ -1,0 +1,61 @@
+body {
+  background: url("../img/bg.jpg")
+}
+
+.tex {
+  text-align: center;
+  padding-top: 35%
+}
+
+.j,.k,.q,.t {
+  position: absolute;
+  font-family: sans-serif;
+  color: #fff;
+  background:#999
+}
+
+.j,.k,.q {
+  width: 15vw;
+  height: 30vh
+}
+
+.j.box,.k.box,.q.box1,.q.box2,.t {
+  border: solid #fff
+}
+
+.t {
+  top: 10%;
+  width: 50%;
+  margin-left: 25%;
+  padding: 1%
+}
+
+.k {
+  top: 30%;
+  left: 20%
+}
+
+.k.box {
+  left: 1%
+}
+
+.q {
+  top: 70%;
+  left: 39%
+}
+
+.q.box1 {
+  left: 20%
+}
+
+.j,.q.box2 {
+  left: 58%
+}
+
+.j {
+  top: 110%
+}
+
+.j.box {
+  left: 77%
+}

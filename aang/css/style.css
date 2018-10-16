@@ -1,0 +1,46 @@
+.borderbox,.img{
+	position: absolute;
+}
+
+.img.tl{
+	top: 8px;
+	left: 16px;
+}
+
+.img.bl{
+	bottom: 8px;
+	left: 16px;
+}
+
+.img.tr{
+	top: 8px;
+	right: 16px;
+}
+
+.img.br{
+	bottom: 8px;
+	right: 16px;
+}
+
+.borderbox{
+  margin-left: 25%;
+  margin-right: 25%;
+  border: solid green;
+  width: 50%;
+  height: 95%;
+  font-family: sans-serif;
+}
+
+h1,marquee{
+  font-weight: bold;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: justify;
+}
