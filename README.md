@@ -1,2 +1,2 @@
 # warrens-playground
-compooter projeccs
+projects from 2018-2019 cs 10 class
